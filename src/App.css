@@ -13,6 +13,17 @@
   }
 }
 
+.navbar a{
+  color: rgb(241, 218, 11);
+
+}
+
+.navbar a:hover{
+  color: rgb(214, 126, 126);
+
+}
+
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
