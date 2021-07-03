@@ -1,0 +1,13 @@
+
+
+  {
+      "testData":[
+        {"id":1,"name":"lokesh01","email":"lokesh@gmail.com","mobileNumber":"123456789"},
+        {"id":2,"name":"lokesh02","email":"lokesh@gmail.com","mobileNumber":"123456789"},
+        {"id":3,"name":"lokesh03","email":"lokesh@gmail.com","mobileNumber":"123456789"},
+        {"id":4,"name":"lokesh04","email":"lokesh@gmail.com","mobileNumber":"123456789"},
+        {"id":5,"name":"lokesh05","email":"lokesh@gmail.com","mobileNumber":"123456789"},
+        {"id":6,"name":"lokesh06","email":"lokesh@gmail.com","mobileNumber":"123456789"},
+        {"id":7,"name":"lokesh07","email":"lokesh@gmail.com","mobileNumber":"123456789"}
+    ]
+  }
